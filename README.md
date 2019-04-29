@@ -1,8 +1,21 @@
-# minesweeper
+# Flutter Minesweeper
 
-A new Flutter project.
+Minesweeper gmae created with Flutter
 
-## Getting Started
+## Todo 📌
+
+- [ ] Custom game size ✅
+- [ ] Multiplayer game with Socket.IO 🔗
+- [ ] Save games in DB 📝
+
+## Showcase 🎀
+
+<img src="https://raw.githubusercontent.com/mikenussbaumer/Flutter-Timer/master/screenshots/Screenshot1.PNG?token=ApskhBMXPIonAh_PmoAOmeIx-q7JFPREks5cwJzvwA%3D%3D" height=700> 
+<img src="https://raw.githubusercontent.com/mikenussbaumer/Flutter-Timer/master/screenshots/Screenshot3.PNG?token=ApskhNdxxS2mk-Lz53txy62pUk3Cmbegks5cwJ1twA%3D%3D" height=700>
+<img src="https://raw.githubusercontent.com/mikenussbaumer/Flutter-Timer/master/screenshots/Screenshot4.PNG?token=ApskhBbZB4PzEz9jPWap7skhILhlAFlaks5cwJ19wA%3D%3D" height=700>
+<img src="https://raw.githubusercontent.com/mikenussbaumer/Flutter-Timer/master/screenshots/Screenshot5.PNG?token=ApskhHfhycppQkKzKmbX8XicUC7HdcXGks5cwJ2OwA%3D%3D" height=700>
+
+## Getting Started 
 
 This project is a starting point for a Flutter application.
 
@@ -14,8 +27,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
-
-
-## Guide
-
-Wenn du 2 oder mehrer Widget hast und du dieses Zusammenfassen möchtest nutze Column / Row...
