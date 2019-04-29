@@ -10,10 +10,9 @@ Minesweeper gmae created with Flutter
 
 ## Showcase 🎀
 
-<img src="https://raw.githubusercontent.com/mikenussbaumer/Flutter-Timer/master/screenshots/Screenshot1.PNG?token=ApskhBMXPIonAh_PmoAOmeIx-q7JFPREks5cwJzvwA%3D%3D" height=700> 
-<img src="https://raw.githubusercontent.com/mikenussbaumer/Flutter-Timer/master/screenshots/Screenshot3.PNG?token=ApskhNdxxS2mk-Lz53txy62pUk3Cmbegks5cwJ1twA%3D%3D" height=700>
-<img src="https://raw.githubusercontent.com/mikenussbaumer/Flutter-Timer/master/screenshots/Screenshot4.PNG?token=ApskhBbZB4PzEz9jPWap7skhILhlAFlaks5cwJ19wA%3D%3D" height=700>
-<img src="https://raw.githubusercontent.com/mikenussbaumer/Flutter-Timer/master/screenshots/Screenshot5.PNG?token=ApskhHfhycppQkKzKmbX8XicUC7HdcXGks5cwJ2OwA%3D%3D" height=700>
+<img src="https://raw.githubusercontent.com/mikenussbaumer/Flutter-Minesweeper/master/screenshots/screenshot1.png" height=700> 
+<img src="https://github.com/mikenussbaumer/Flutter-Minesweeper/blob/master/screenshots/screenshot2.png?raw=true" height=700>
+<img src="https://github.com/mikenussbaumer/Flutter-Minesweeper/blob/master/screenshots/screenshot3.png?raw=true" height=700>
 
 ## Getting Started 
 
